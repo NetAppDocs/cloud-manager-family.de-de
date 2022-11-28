@@ -1,0 +1,15 @@
+---
+layout: product-family 
+permalink: index.html 
+lead: 'BlueXP (formerly Cloud Manager) provides IT experts and cloud architects with a centralized control plane to manage, monitor, and automate data in hybrid multicloud environments. Browse the docs by product area or use the search above to find content anywhere in the BlueXP docs.' 
+summary: 'BlueXP (ehemals Cloud Manager) bietet IT-Experten und Cloud-Architekten eine zentrale Managementoberfläche für das Management, die Überwachung und die Automatisierung von Daten in Hybrid-Multi-Cloud-Umgebungen. Durchsuchen Sie die Dokumente nach Produktbereich, oder suchen Sie über die obige Suchfunktion nach Inhalten in den BlueXP-Dokumenten.' 
+---
+= BlueXP-Dokumentation
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
